@@ -1,0 +1,13 @@
+* {
+    font-family: 'Nunito', sans-serif;
+}
+
+/* .sidebar {
+    background: aqua;
+    width: 40px !important;
+} */
+
+.sidebarr {
+    width: 50px;
+    background: pink;
+}
